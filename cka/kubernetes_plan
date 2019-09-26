@@ -1,0 +1,33 @@
+Courses
+
+Introduction to Kubernetes (LFS158) - 12h
+https://training.linuxfoundation.org/training/introduction-to-kubernetes/
+
+Cloud Native Certified Kubernetes Administrator (CKA) - 17h
+https://linuxacademy.com/cp/modules/view/id/327?redirect_uri=https://app.linuxacademy.com/search?query=CKA
+
+Kubernetes Deep Dive - 5h
+https://acloud.guru/learn/kubernetes-deep-dive?_ga=2.211049053.991789072.1569539250-571713306.1563176223
+
+Kubernetes Networking Explained: Introduction - 2h
+https://supergiant.io/blog/kubernetes-networking-explained-introduction/
+
+
+26h
+
+HandsOn Labs
+
+CKA Practice Exam: Part [1-3] - 5h
+https://app.linuxacademy.com/hands-on-labs/037bf8cd-845a-4d01-9044-557cf3850e29?redirect_uri=https:%2F%2Fapp.linuxacademy.com%2Fsearch%3Fquery%3DCKA
+https://app.linuxacademy.com/hands-on-labs/53df2b3e-6346-4dd3-997a-3db86593334c?redirect_uri=https:%2F%2Fapp.linuxacademy.com%2Fsearch%3Fquery%3DCKA
+https://app.linuxacademy.com/hands-on-labs/4769090b-12c1-475d-ae1f-8c6f7fbe45ea?redirect_uri=https:%2F%2Fapp.linuxacademy.com%2Fsearch%3Fquery%3DCKA
+Kubernetes the hard way - 20h
+https://github.com/kelseyhightower/kubernetes-the-hard-way
+Katakoda Labs - 15h
+https://www.katacoda.com/courses/kubernetes
+Cluster roles - 2h
+https://medium.com/faun/how-to-pass-certified-kubernetes-administrator-cka-exam-on-first-attempt-36c0ceb4c9e
+
+40h
+
+
